@@ -1,6 +1,10 @@
 public class{
-  public static void main(String args[]){
+  public static void main(String args[]{
+
     System.out.print("hello,world");
+=======
+    System.out.print(hello,world);
+>>>>>>> 848017707c70b478e7a4f2a2c0f357b585c30be4
   }
   
 }
